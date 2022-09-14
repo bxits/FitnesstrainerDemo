@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitnesstrainer", "Fitnesstrainer\Fitnesstrainer.csproj", "{1F556007-5D87-4404-B6BE-41930FA560F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{36A6D8C1-8CCE-4607-9EC1-4E8CA9C18898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{086F30BE-DE28-4017-AC27-17DC8AC93E38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F556007-5D87-4404-B6BE-41930FA560F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F556007-5D87-4404-B6BE-41930FA560F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F556007-5D87-4404-B6BE-41930FA560F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F556007-5D87-4404-B6BE-41930FA560F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A6D8C1-8CCE-4607-9EC1-4E8CA9C18898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A6D8C1-8CCE-4607-9EC1-4E8CA9C18898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A6D8C1-8CCE-4607-9EC1-4E8CA9C18898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A6D8C1-8CCE-4607-9EC1-4E8CA9C18898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{086F30BE-DE28-4017-AC27-17DC8AC93E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086F30BE-DE28-4017-AC27-17DC8AC93E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086F30BE-DE28-4017-AC27-17DC8AC93E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086F30BE-DE28-4017-AC27-17DC8AC93E38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6085BCD2-37CD-43DD-A15A-67F3761F6106}
+	EndGlobalSection
+EndGlobal
